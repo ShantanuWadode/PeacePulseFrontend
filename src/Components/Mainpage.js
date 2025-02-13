@@ -73,7 +73,7 @@ const Mainpage = () => {
         
         
         <p className="mt-4 text-sm leading-6 col-start-1 sm:col-span-2 lg:mt-6 lg:row-start-4 lg:col-span-1 dark:text-slate-400">
-        Our mental health app offers a sanctuary amidst the storm, a haven where you can nurture your mind and spirit. Whether you're battling anxiety, stress, or simply seeking a moment of tranquility, CALMER YOU provides the tools and support you need to navigate life's challenges with grace and resilience. From guided meditations to personalized coping strategies, our platform empowers you to cultivate a calmer, more balanced life. 
+        Our mental health app offers a sanctuary amidst the storm, a haven where you can nurture your mind and spirit. Whether you're battling anxiety, stress, or simply seeking a moment of tranquility,PeacePulse provides the tools and support you need to navigate life's challenges with grace and resilience. From guided meditations to personalized coping strategies, our platform empowers you to cultivate a calmer, more balanced life. 
         </p>
         <div className="mt-4 col-start-1 row-start-3 self-center sm:mt-0 sm:col-start-2 sm:row-start-2 sm:row-span-2 lg:mt-6 lg:col-start-1 lg:row-start-3 lg:row-end-4">
           <button type="button" onClick={scrollToBottom} className="bg-indigo-600 text-white text-sm leading-6 font-medium py-2 px-3 rounded-lg">Take a Tour</button>
