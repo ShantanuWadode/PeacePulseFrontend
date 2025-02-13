@@ -84,21 +84,10 @@ const LandingPage = () => {
           </div>
           
          
-    {/* <div class="relative mx-auto border-gray-800 dark:border-gray-800 bg-gray-800 border-[14px] rounded-[2.5rem] h-[600px] w-[300px] transform translate-x-8">
-        <div class="h-[32px] w-[3px] bg-gray-800 dark:bg-gray-800 absolute -start-[17px] top-[72px] rounded-s-lg"></div>
-        <div class="h-[46px] w-[3px] bg-gray-800 dark:bg-gray-800 absolute -start-[17px] top-[124px] rounded-s-lg"></div>
-        <div class="h-[46px] w-[3px] bg-gray-800 dark:bg-gray-800 absolute -start-[17px] top-[178px] rounded-s-lg"></div>
-        <div class="h-[64px] w-[3px] bg-gray-800 dark:bg-gray-800 absolute -end-[17px] top-[142px] rounded-e-lg"></div>
-        <div class="rounded-[2rem] overflow-hidden w-[272px] h-[572px] bg-white dark:bg-gray-800">
-        <h3 className='text-center'>PeacePulse</h3>
-        
-           
-            <img src="https://cdn.dribbble.com/users/1896165/screenshots/7799845/media/ab74709a5b585082ef0ff5bb4fb42de6.gif" class="dark:hidden w-[272px] h-[572px]" alt=""/>
-        </div>
-    </div> */}
+    
 
 
-    <div class="relative mx-auto  sm:align-center  border-gray-800 dark:border-gray-800 bg-white dark:bg-gray-800 border-[14px] rounded-[2.5rem] h-[600px] w-[300px] transform translate-x-8">
+    {/* <div class="relative mx-auto  sm:align-center  border-gray-800 dark:border-gray-800 bg-white dark:bg-gray-800 border-[14px] rounded-[2.5rem] h-[600px] w-[300px] transform translate-x-8">
     <div class="h-[32px] w-[3px] bg-gray-800 dark:bg-gray-800 absolute -start-[17px] top-[72px] rounded-s-lg"></div>
     <div class="h-[46px] w-[3px] bg-gray-800 dark:bg-gray-800 absolute -start-[17px] top-[124px] rounded-s-lg"></div>
     <div class="h-[46px] w-[3px] bg-gray-800 dark:bg-gray-800 absolute -start-[17px] top-[178px] rounded-s-lg"></div>
@@ -109,7 +98,19 @@ const LandingPage = () => {
         <p id="typing-text" class="text-center text-md text-gray-600 dark:text-gray-400 text-lg mt-4"></p>
        
     </div>
+</div> */}
+<div class="relative mx-auto sm:align-center border-gray-800 dark:border-gray-800 bg-white dark:bg-gray-800 border-[14px] rounded-[2.5rem] h-[80vh] sm:h-[600px] w-[90vw] sm:w-[300px] max-w-[360px] transform translate-x-8">
+    <div class="h-[32px] w-[3px] bg-gray-800 dark:bg-gray-800 absolute -left-[17px] top-[72px] rounded-s-lg"></div>
+    <div class="h-[46px] w-[3px] bg-gray-800 dark:bg-gray-800 absolute -left-[17px] top-[124px] rounded-s-lg"></div>
+    <div class="h-[46px] w-[3px] bg-gray-800 dark:bg-gray-800 absolute -left-[17px] top-[178px] rounded-s-lg"></div>
+    <div class="h-[64px] w-[3px] bg-gray-800 dark:bg-gray-800 absolute -right-[17px] top-[142px] rounded-e-lg"></div>
+    <div class="rounded-[2rem] overflow-hidden w-full h-full bg-white">
+        <h3 class="text-center text-blue-500 dark:text-blue-300 text-3xl py-4">PeacePulse</h3>
+        <img src="https://img.freepik.com/free-vector/mental-health-wellness-composition-with-isometric-icons-human-organ-gear-tools-emotional-reactions-people-vector-illustration_1284-80419.jpg?t=st=1708461505~exp=1708465105~hmac=ba581e9468b6928b85b0bf7120bea021e004043b37d42aaede90a9474661b4b2&w=740" alt="" class="w-full h-auto"/>
+        <p id="typing-text" class="text-center text-md text-gray-600 dark:text-gray-400 text-lg mt-4"></p>
+    </div>
 </div>
+
 
 
 
